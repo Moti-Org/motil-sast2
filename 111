@@ -1,0 +1,7 @@
+{
+  "name": "ori/test",
+  "description": "testiong detection for license issues",
+  "require": {
+        "php-amqplib/php-amqplib": "v3.5.2"
+  }
+}
